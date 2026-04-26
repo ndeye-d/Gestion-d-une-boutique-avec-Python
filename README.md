@@ -1,1 +1,1 @@
-# Gestion-d-une-boutique-avec-Python
+# Gestion d'une boutique avec Python
